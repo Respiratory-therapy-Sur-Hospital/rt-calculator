@@ -1,6 +1,6 @@
 // Offline support for the Sur Hospital RT Calculator.
 // Bump VERSION whenever you upload new files, so phones fetch the update.
-const VERSION = 'sur-rt-v2';
+const VERSION = 'sur-rt-v3';
 const CORE = ['./', 'index.html', 'manifest.json', 'icon-192.png', 'icon-512.png'];
 
 self.addEventListener('install', e => {
