@@ -1,0 +1,24 @@
+{
+  "name": "Sur Hospital RT Calculator",
+  "short_name": "Sur RT Calc",
+  "description": "Bedside ICU respiratory therapy calculators – Sur Hospital",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6676",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
